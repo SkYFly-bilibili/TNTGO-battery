@@ -1,0 +1,2 @@
+# TNTGO-battery
+一个可以在Windows下可以实时检测有线版TNTGO便携屏电量的软件
